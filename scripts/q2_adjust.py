@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: MPL-2.0
+# SPDX-License-Identifier: MIT
 # Copyright (c) 2026 Ninon
 """Q2, step 2: turn a detector rate into an estimated true rate.
 

@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: MPL-2.0
+# SPDX-License-Identifier: MIT
 # Copyright (c) 2026 Ninon
 """Q1, step 2: precision of guard-hook fires from a labeled sample.
 

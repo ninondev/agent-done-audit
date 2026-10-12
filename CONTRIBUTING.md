@@ -14,5 +14,4 @@ transcripts, private paths or message text in an issue or pull request. If you
 share results from your own transcripts, share the aggregate tables the scripts
 print.
 
-Before a pull request can be merged, add the CLA comment shown in [CLA.md](CLA.md).
-The scripts, text and tables are under MPL-2.0. See [LICENSE](LICENSE).
+The scripts, text and tables are under the MIT License. See [LICENSE](LICENSE).

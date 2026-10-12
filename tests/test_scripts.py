@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: MPL-2.0
+# SPDX-License-Identifier: MIT
 # Copyright (c) 2026 Ninon
 """Run every script on the synthetic fixture. Never touches a real ~/.claude folder."""
 import csv

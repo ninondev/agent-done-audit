@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: MPL-2.0
+# SPDX-License-Identifier: MIT
 # Copyright (c) 2026 Ninon
 """Shared helpers: Wilson intervals and streaming Claude Code transcripts."""
 import glob

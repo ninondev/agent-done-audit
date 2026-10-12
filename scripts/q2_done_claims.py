@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: MPL-2.0
+# SPDX-License-Identifier: MIT
 # Copyright (c) 2026 Ninon
 """Q2, step 1: find "done" claims in main-session transcripts and classify them.
 

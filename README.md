@@ -115,6 +115,6 @@ The fixed hooks are published separately as [Callbluff](https://github.com/ninon
 
 ## License
 
-The scripts are under the [Mozilla Public License 2.0](LICENSE). The text and tables in this repository are under the same license. Copyright (c) 2026 Ninon. Contributions need the CLA comment described in [CONTRIBUTING.md](CONTRIBUTING.md).
+The scripts, text and tables are under the [MIT License](LICENSE). Copyright (c) 2026 Ninon. See [CONTRIBUTING.md](CONTRIBUTING.md) to contribute.
 
 If this was useful to you, a star helps other people find it.
